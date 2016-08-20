@@ -1,0 +1,5 @@
+"Vertexlitgeneric"
+{
+	"$basetexture"  "models\weapons\tex_0009_1"
+	"$nolod"	"1"
+}

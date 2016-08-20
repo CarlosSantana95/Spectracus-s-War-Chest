@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"weaponicons/hkmp7-k"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

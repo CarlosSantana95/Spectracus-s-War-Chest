@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\world\accessories\w_aimpoint_lens.vtf"
+	"$bumpmap" "models\weapons\world\accessories\w_aimpoint_lens_normal.vtf"
+	"$phongexponenttexture" "models/albedotint"
+	"$translucent"			"1"
+	"$phong" 			"1"
+	"$phongexponent"		"10"
+	"$phongboost" 			"20"
+	"$phongfresnelranges"		"[1.0 2.5 10.5]"//"[0.1 0.4 .8]"
+	$phongdisablehalflambert 1
+	$halflambert 0
+	$PhongAlbedoTint 1
+}

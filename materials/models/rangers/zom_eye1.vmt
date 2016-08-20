@@ -1,0 +1,5 @@
+"Unlitgeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/rangers/zom_eye1"
+}

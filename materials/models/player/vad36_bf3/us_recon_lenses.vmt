@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"MODELS/PLAYER/VAD36_BF3/us_recon_lenses"
+	"$alphatest"	1
+}

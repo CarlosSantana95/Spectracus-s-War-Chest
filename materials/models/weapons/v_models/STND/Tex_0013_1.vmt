@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\STND\knife"
+	$bumpmap "models\weapons\Rinfect\Battlefield_3\shared\NORMAL"
+
+	$phong 1
+	$phongboost ".2"
+	$phongalbedoboost 100
+	$phongfresnelranges "[ .83 .83 1]"
+
+	$nocull "1"
+	"$basetexturealphaenvmapmask" 1
+	"$envmap" "env_cubemap"
+	$envmaptint "[.01 .01 .01]"
+	"$envmapsaturation" "1"
+	"$envmapcontrast" "1"
+	"$envmapFresnel" "1"
+	$phongalbedotint 1
+	$phongdisablehalflambert 1
+}

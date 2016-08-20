@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	$basetexture	vgui/gmplus/vignette_bottomleft
+	$vertexcolor	1
+	$vertexalpha	1
+	$translucent	1
+}

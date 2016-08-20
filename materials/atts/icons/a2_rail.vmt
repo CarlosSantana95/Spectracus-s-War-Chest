@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "atts/icons/a2_rail"
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

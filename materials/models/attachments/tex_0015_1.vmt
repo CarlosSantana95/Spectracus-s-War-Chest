@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/attachments/tex_0015_1"
+	"$surfaceprop" "Metal"
+	"$nolod" 1
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\Stoke P226 '07\Grip"
+	"$bumpmap" "models\weapons\v_models\Stoke P226 '07\Grip_Normal" 
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+}

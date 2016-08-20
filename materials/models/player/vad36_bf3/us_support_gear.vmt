@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\vad36_bf3/us_support_gear"
+	"$bumpmap" "models\player\vad36_bf3/us_support_gear_n"
+
+"$alphatest" 1
+}
