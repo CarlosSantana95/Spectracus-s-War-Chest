@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "hud/hit"
+	"$translucent" 1
+	"$vertexalpha" "1"
+	"$no_fullbright" "1"
+	"$ignorez" 0
+	"$nolod" "1"
+}

@@ -21,7 +21,7 @@ if CLIENT then
 	SWEP.EoTechPos = Vector(3.263, -6.632, 0.759)
 	SWEP.EoTechAng = Vector(1.967, 0, 0)
 	
-	SWEP.AimpointPos = Vector(3.286, -4, 0.92)
+	SWEP.AimpointPos = Vector(3.286, -2, 0.92)
 	SWEP.AimpointAng = Vector(0, 0, 0)
 	
 	SWEP.ACOGPos = Vector(-2.234, -5.27, -0.635)
