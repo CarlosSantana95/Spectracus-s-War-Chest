@@ -25,7 +25,7 @@ AMMO_TYPES["Grenade"] = 2
 
 AMMO_TYPES["dodTNT"] = 0
 
-AMMO_TYPES["7.62x39mm"] = 210
+AMMO_TYPES["7.62x39mm"] = 150
 
 AMMO_TYPES["7.62x54mmR"] = 300
 
