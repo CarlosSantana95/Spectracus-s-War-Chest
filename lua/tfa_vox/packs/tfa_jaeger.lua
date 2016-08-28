@@ -299,7 +299,7 @@ sound.Add( {
 	volume = 1.0, -- Don't touch it!
 	level = SNDLVL_TALKING, -- Don't touch it!
 	pitch = PITCH_NORM, -- Don't touch it!
-	sound = { "miscsounds\comments\us1spot.wav", "miscsounds\comments\us2spot.wav", "miscsounds\comments\us3spot.wav", "miscsounds\comments\us4spot.wav", "miscsounds\comments\us5spot.wav", "miscsounds\comments\us6spot.wav", "miscsounds\comments\us7spot.wav", "miscsounds\comments\us8spot.wav" }
+	sound = { "sound\miscsounds\comments\us1spot.wav", "sound\miscsounds\comments\us2spot.wav", "sound\miscsounds\comments\us3spot.wav", "sound\miscsounds\comments\us4spot.wav", "sound\miscsounds\comments\us5spot.wav", "sound\miscsounds\comments\us6spot.wav", "sound\miscsounds\comments\us7spot.wav", "sound\miscsounds\comments\us8spot.wav" }
 } ) ------------------/\---------------------------/\-----------------------/\--- Change those sounds with your own ones. You can make more than 3. :)
 
 sound.Add( {
@@ -308,7 +308,7 @@ sound.Add( {
 	volume = 1.0,
 	level = SNDLVL_TALKING,
 	pitch = PITCH_NORM,
-	sound = { "miscsounds\comments\us1genspot.wav", "miscsounds\comments\us2genspot.wav", "miscsounds\comments\us3genspot.wav", "miscsounds\comments\us4genspot.wav", "miscsounds\comments\us5genspot.wav", "miscsounds\comments\us6genspot.wav", "miscsounds\comments\us7genspot.wav", "miscsounds\comments\us8genspot.wav" }
+	sound = { "sound\miscsounds\comments\us1genspot.wav", "sound\miscsounds\comments\us2genspot.wav", "sound\miscsounds\comments\us3genspot.wav", "sound\miscsounds\comments\us4genspot.wav", "sound\miscsounds\comments\us5genspot.wav", "sound\miscsounds\comments\us6genspot.wav", "sound\miscsounds\comments\us7genspot.wav", "sound\miscsounds\comments\us8genspot.wav" }
 } )
 
 sound.Add( {
@@ -317,7 +317,7 @@ sound.Add( {
 	volume = 1.0,
 	level = SNDLVL_TALKING,
 	pitch = PITCH_NORM,
-	sound = { "miscsounds\comments\us1genspot.wav", "miscsounds\comments\us2genspot.wav", "miscsounds\comments\us3genspot.wav", "miscsounds\comments\us4genspot.wav", "miscsounds\comments\us5genspot.wav", "miscsounds\comments\us6genspot.wav", "miscsounds\comments\us7genspot.wav", "miscsounds\comments\us8genspot.wav" }
+	sound = { "sound\miscsounds\comments\us1genspot.wav", "sound\miscsounds\comments\us2genspot.wav", "sound\miscsounds\comments\us3genspot.wav", "sound\miscsounds\comments\us4genspot.wav", "sound\miscsounds\comments\us5genspot.wav", "sound\miscsounds\comments\us6genspot.wav", "sound\miscsounds\comments\us7genspot.wav", "sound\miscsounds\comments\us8genspot.wav" }
 } )
 
 sound.Add( {
@@ -326,7 +326,7 @@ sound.Add( {
 	volume = 1.0,
 	level = SNDLVL_TALKING,
 	pitch = PITCH_NORM,
-	sound = { "miscsounds\comments\us1genspot.wav", "miscsounds\comments\us2genspot.wav", "miscsounds\comments\us3genspot.wav", "miscsounds\comments\us4genspot.wav", "miscsounds\comments\us5genspot.wav", "miscsounds\comments\us6genspot.wav", "miscsounds\comments\us7genspot.wav", "miscsounds\comments\us8genspot.wav" }
+	sound = { "sound\miscsounds\comments\us1genspot.wav", "sound\miscsounds\comments\us2genspot.wav", "sound\miscsounds\comments\us3genspot.wav", "sound\miscsounds\comments\us4genspot.wav", "sound\miscsounds\comments\us5genspot.wav", "sound\miscsounds\comments\us6genspot.wav", "sound\miscsounds\comments\us7genspot.wav", "sound\miscsounds\comments\us8genspot.wav" }
 } )
 
 sound.Add( {
@@ -335,7 +335,7 @@ sound.Add( {
 	volume = 1.0,
 	level = SNDLVL_TALKING,
 	pitch = PITCH_NORM,
-	sound = { "miscsounds\comments\us1genspot.wav", "miscsounds\comments\us2genspot.wav", "miscsounds\comments\us3genspot.wav", "miscsounds\comments\us4genspot.wav", "miscsounds\comments\us5genspot.wav", "miscsounds\comments\us6genspot.wav", "miscsounds\comments\us7genspot.wav", "miscsounds\comments\us8genspot.wav" }
+	sound = { "sound\miscsounds\comments\us1genspot.wav", "sound\miscsounds\comments\us2genspot.wav", "sound\miscsounds\comments\us3genspot.wav", "sound\miscsounds\comments\us4genspot.wav", "sound\miscsounds\comments\us5genspot.wav", "sound\miscsounds\comments\us6genspot.wav", "sound\miscsounds\comments\us7genspot.wav", "sound\miscsounds\comments\us8genspot.wav" }
 } )
 
 sound.Add( {
@@ -344,7 +344,7 @@ sound.Add( {
 	volume = 1.0,
 	level = SNDLVL_TALKING,
 	pitch = PITCH_NORM,
-	sound = { "miscsounds\comments\us1genspot.wav", "miscsounds\comments\us2genspot.wav", "miscsounds\comments\us3genspot.wav", "miscsounds\comments\us4genspot.wav", "miscsounds\comments\us5genspot.wav", "miscsounds\comments\us6genspot.wav", "miscsounds\comments\us7genspot.wav", "miscsounds\comments\us8genspot.wav" }
+	sound = { "sound\miscsounds\comments\us1genspot.wav", "sound\miscsounds\comments\us2genspot.wav", "sound\miscsounds\comments\us3genspot.wav", "sound\miscsounds\comments\us4genspot.wav", "sound\miscsounds\comments\us5genspot.wav", "sound\miscsounds\comments\us6genspot.wav", "sound\miscsounds\comments\us7genspot.wav", "sound\miscsounds\comments\us8genspot.wav" }
 } )
 
 sound.Add( {
@@ -353,7 +353,7 @@ sound.Add( {
 	volume = 1.0,
 	level = SNDLVL_TALKING,
 	pitch = PITCH_NORM,
-	sound = { "miscsounds\comments\us1genspot.wav", "miscsounds\comments\us2genspot.wav", "miscsounds\comments\us3genspot.wav", "miscsounds\comments\us4genspot.wav", "miscsounds\comments\us5genspot.wav", "miscsounds\comments\us6genspot.wav", "miscsounds\comments\us7genspot.wav", "miscsounds\comments\us8genspot.wav" }
+	sound = { "sound\miscsounds\comments\us1genspot.wav", "sound\miscsounds\comments\us2genspot.wav", "sound\miscsounds\comments\us3genspot.wav", "sound\miscsounds\comments\us4genspot.wav", "sound\miscsounds\comments\us5genspot.wav", "sound\miscsounds\comments\us6genspot.wav", "sound\miscsounds\comments\us7genspot.wav", "sound\miscsounds\comments\us8genspot.wav" }
 } )
 
 sound.Add( {
@@ -362,7 +362,7 @@ sound.Add( {
 	volume = 1.0,
 	level = SNDLVL_TALKING,
 	pitch = PITCH_NORM,
-	sound = { "miscsounds\comments\us1genspot.wav", "miscsounds\comments\us2genspot.wav", "miscsounds\comments\us3genspot.wav", "miscsounds\comments\us4genspot.wav", "miscsounds\comments\us5genspot.wav", "miscsounds\comments\us6genspot.wav", "miscsounds\comments\us7genspot.wav", "miscsounds\comments\us8genspot.wav" }
+	sound = { "sound\miscsounds\comments\us1genspot.wav", "sound\miscsounds\comments\us2genspot.wav", "sound\miscsounds\comments\us3genspot.wav", "sound\miscsounds\comments\us4genspot.wav", "sound\miscsounds\comments\us5genspot.wav", "sound\miscsounds\comments\us6genspot.wav", "sound\miscsounds\comments\us7genspot.wav", "sound\miscsounds\comments\us8genspot.wav" }
 } )
 
 sound.Add( {
@@ -380,7 +380,7 @@ sound.Add( {
 	volume = 1.0,
 	level = SNDLVL_TALKING,
 	pitch = PITCH_NORM,
-	sound = { "miscsounds\comments\us1genspot.wav", "miscsounds\comments\us2genspot.wav", "miscsounds\comments\us3genspot.wav", "miscsounds\comments\us4genspot.wav", "miscsounds\comments\us5genspot.wav", "miscsounds\comments\us6genspot.wav", "miscsounds\comments\us7genspot.wav", "miscsounds\comments\us8genspot.wav"" }
+	sound = { "sound\miscsounds\comments\us1genspot.wav", "sound\miscsounds\comments\us2genspot.wav", "sound\miscsounds\comments\us3genspot.wav", "sound\miscsounds\comments\us4genspot.wav", "sound\miscsounds\comments\us5genspot.wav", "sound\miscsounds\comments\us6genspot.wav", "sound\miscsounds\comments\us7genspot.wav", "sound\miscsounds\comments\us8genspot.wav" }
 } )
 --end--
 --CustomTaunts--
@@ -462,7 +462,7 @@ sound.Add( {
 	volume = 1.0,
 	level = SNDLVL_TALKING,
 	pitch = PITCH_NORM,
-	sound = { "miscsounds\comments\thankyou2.wav", "miscsounds\comments\thankyou3.wav", "miscsounds\comments\thankyou4.wav", "miscsounds\comments\thankyou8.wav", "miscsounds\comments\thankyou9.wav", "miscsounds\comments\thankyou10.wav", "miscsounds\comments\thankyou11.wav", "miscsounds\comments\thankyou12.wav", "miscsounds\comments\thankyou14.wav", "miscsounds\comments\thankyou15.wav", "miscsounds\comments\thankyou2.wav", "miscsounds\comments\thankyou16.wav", "miscsounds\comments\thankyou17.wav"  }
+	sound = { "sound\miscsounds\comments\thankyou2.wav", "sound\miscsounds\comments\thankyou3.wav", "sound\miscsounds\comments\thankyou4.wav", "sound\miscsounds\comments\thankyou8.wav", "sound\miscsounds\comments\thankyou9.wav", "sound\miscsounds\comments\thankyou10.wav", "sound\miscsounds\comments\thankyou11.wav", "sound\miscsounds\comments\thankyou12.wav", "sound\miscsounds\comments\thankyou14.wav", "sound\miscsounds\comments\thankyou15.wav", "sound\miscsounds\comments\thankyou2.wav", "sound\miscsounds\comments\thankyou16.wav", "sound\miscsounds\comments\thankyou17.wav"  }
 } )
 
 sound.Add( {
@@ -480,7 +480,7 @@ sound.Add( {
 	volume = 1.0,
 	level = SNDLVL_TALKING,
 	pitch = PITCH_NORM,
-	sound = { "miscsounds\comments\goodshot1.wav", "miscsounds\comments\goodshot2.wav", "miscsounds\comments\goodshot3.wav", "miscsounds\comments\goodshot4.wav", "miscsounds\comments\goodshot5.wav", "miscsounds\comments\goodshot6.wav", "miscsounds\comments\goodshot7.wav", "miscsounds\comments\goodshot8.wav" }
+	sound = { "sound\miscsounds\comments\goodshot1.wav", "sound\miscsounds\comments\goodshot2.wav", "sound\miscsounds\comments\goodshot3.wav", "sound\miscsounds\comments\goodshot4.wav", "sound\miscsounds\comments\goodshot5.wav", "sound\miscsounds\comments\goodshot6.wav", "sound\miscsounds\comments\goodshot7.wav", "sound\miscsounds\comments\goodshot8.wav" }
 } )
 
 sound.Add( {
@@ -498,7 +498,7 @@ sound.Add( {
 	volume = 1.0,
 	level = SNDLVL_TALKING,
 	pitch = PITCH_NORM,
-	sound = { "miscsounds\hitsounds\ohsnap1.wav", "miscsounds\hitsounds\ohsnap2.wav", "miscsounds\hitsounds\ohsnap3.wav", "miscsounds\hitsounds\ohsnap4.wav", "miscsounds\hitsounds\ohsnap5.wav", "miscsounds\hitsounds\ohsnap6.wav", "miscsounds\hitsounds\ohsnap7.wav", "miscsounds\hitsounds\ohsnap8.wav", "miscsounds\hitsounds\ohsnap9.wav" }
+	sound = { "sound\miscsounds\hitsounds\ohsnap1.wav", "sound\miscsounds\hitsounds\ohsnap2.wav", "sound\miscsounds\hitsounds\ohsnap3.wav", "sound\miscsounds\hitsounds\ohsnap4.wav", "sound\miscsounds\hitsounds\ohsnap5.wav", "sound\miscsounds\hitsounds\ohsnap6.wav", "sound\miscsounds\hitsounds\ohsnap7.wav", "sound\miscsounds\hitsounds\ohsnap8.wav", "sound\miscsounds\hitsounds\ohsnap9.wav" }
 } )
 
 sound.Add( {
@@ -693,7 +693,7 @@ sound.Add( {
 	volume = 1.0,
 	level = SNDLVL_TALKING,
 	pitch = PITCH_NORM,
-	sound = { "miscsounds\warnings\outofammo1.wav", "miscsounds\warnings\outofammo2.wav" }
+	sound = { "sound\miscsounds\warnings\outofammo1.wav", "sound\miscsounds\warnings\outofammo2.wav" }
 } )
 
 
@@ -703,7 +703,7 @@ sound.Add( {
 	volume = 1.0,
 	level = SNDLVL_TALKING,
 	pitch = PITCH_NORM,
-	sound = { "miscsounds\reload\reload1.wav", "miscsounds\reload\reload2.wav", "miscsounds\reload\reload3.wav", "miscsounds\reload\reload4.wav", "miscsounds\reload\reload5.wav", "miscsounds\reload\reload6.wav", "miscsounds\reload\reload7.wav", "miscsounds\reload\reload8.wav", "miscsounds\reload\reload9.wav", "miscsounds\reload\reload10.wav", "miscsounds\reload\reload11.wav", "miscsounds\reload\reload12.wav", "miscsounds\reload\reload13.wav", "miscsounds\reload\reload14.wav" }
+	sound = { "sound\miscsounds\reload\reload1.wav", "sound\miscsounds\reload\reload2.wav", "sound\miscsounds\reload\reload3.wav", "sound\miscsounds\reload\reload4.wav", "sound\miscsounds\reload\reload5.wav", "sound\miscsounds\reload\reload6.wav", "sound\miscsounds\reload\reload7.wav", "sound\miscsounds\reload\reload8.wav", "sound\miscsounds\reload\reload9.wav", "sound\miscsounds\reload\reload10.wav", "sound\miscsounds\reload\reload11.wav", "sound\miscsounds\reload\reload12.wav", "sound\miscsounds\reload\reload13.wav", "sound\miscsounds\reload\reload14.wav" }
 } )
 
 sound.Add( {
@@ -712,7 +712,7 @@ sound.Add( {
 	volume = 1.0,
 	level = SNDLVL_TALKING,
 	pitch = PITCH_NORM,
-	sound = { "miscsounds\comments\attacking5.wav"}
+	sound = { "sound\miscsounds\comments\attacking5.wav"}
 } )
 
 sound.Add( {
@@ -721,7 +721,7 @@ sound.Add( {
 	volume = 1.0,
 	level = SNDLVL_TALKING,
 	pitch = PITCH_NORM,
-	sound = { "miscsounds\death_screams\death1.wav", "miscsounds\death_screams\death2.wav", "miscsounds\death_screams\death3.wav", "miscsounds\death_screams\death4.wav", "miscsounds\death_screams\death5.wav", "miscsounds\death_screams\death6.wav", "miscsounds\death_screams\death7.wav", "miscsounds\death_screams\death8.wav" }
+	sound = { "sound\miscsounds\death_screams\death1.wav", "sound\miscsounds\death_screams\death2.wav", "sound\miscsounds\death_screams\death3.wav", "sound\miscsounds\death_screams\death4.wav", "sound\miscsounds\death_screams\death5.wav", "sound\miscsounds\death_screams\death6.wav", "sound\miscsounds\death_screams\death7.wav", "sound\miscsounds\death_screams\death8.wav" }
 } )
 
 -- sound.Add( {
@@ -768,7 +768,7 @@ sound.Add( {
 	volume = 1.0,
 	level = SNDLVL_TALKING,
 	pitch = PITCH_NORM,
-	sound = { "miscsounds\hitsounds\hit1.wav", "miscsounds\hitsounds\hit2.wav", "miscsounds\hitsounds\hit3.wav", "miscsounds\hitsounds\hit4.wav" }
+	sound = { "sound\miscsounds\hitsounds\hit1.wav", "sound\miscsounds\hitsounds\hit2.wav", "sound\miscsounds\hitsounds\hit3.wav", "sound\miscsounds\hitsounds\hit4.wav" }
 } )
 
 sound.Add( {
@@ -777,7 +777,7 @@ sound.Add( {
 	volume = 1.0,
 	level = SNDLVL_TALKING,
 	pitch = PITCH_NORM,
-	sound = { "miscsounds\enemydown\enemydown1.wav", "miscsounds\enemydown\enemydown2.wav", "miscsounds\enemydown\enemydown3.wav", "miscsounds\enemydown\enemydown4.wav", "miscsounds\enemydown\enemydown5.wav", "miscsounds\enemydown\enemydown6.wav", "miscsounds\enemydown\enemydown7.wav", "miscsounds\enemydown\enemydown8.wav", "miscsounds\enemydown\enemydown9.wav", "miscsounds\enemydown\enemydown10.wav", "miscsounds\enemydown\enemydown11.wav", "miscsounds\enemydown\enemydown12.wav", "miscsounds\enemydown\enemydown13.wav", "miscsounds\enemydown\enemydown14.wav", "miscsounds\enemydown\enemydown15.wav", "miscsounds\enemydown\enemydown16.wav", "miscsounds\enemydown\enemydown17.wav", "miscsounds\enemydown\enemydown18.wav", "miscsounds\enemydown\enemydown19.wav" }
+	sound = { "sound\miscsounds\enemydown\enemydown1.wav", "sound\miscsounds\enemydown\enemydown2.wav", "sound\miscsounds\enemydown\enemydown3.wav", "sound\miscsounds\enemydown\enemydown4.wav", "sound\miscsounds\enemydown\enemydown5.wav", "sound\miscsounds\enemydown\enemydown6.wav", "sound\miscsounds\enemydown\enemydown7.wav", "sound\miscsounds\enemydown\enemydown8.wav", "sound\miscsounds\enemydown\enemydown9.wav", "sound\miscsounds\enemydown\enemydown10.wav", "sound\miscsounds\enemydown\enemydown11.wav", "sound\miscsounds\enemydown\enemydown12.wav", "sound\miscsounds\enemydown\enemydown13.wav", "sound\miscsounds\enemydown\enemydown14.wav", "sound\miscsounds\enemydown\enemydown15.wav", "sound\miscsounds\enemydown\enemydown16.wav", "sound\miscsounds\enemydown\enemydown17.wav", "sound\miscsounds\enemydown\enemydown18.wav", "sound\miscsounds\enemydown\enemydown19.wav" }
 			  
 } )
 
@@ -787,7 +787,7 @@ sound.Add( {
 	volume = 1.0,
 	level = SNDLVL_TALKING,
 	pitch = PITCH_NORM,
-	sound = { "miscsounds\hitsounds\ohsnap1.wav", "miscsounds\hitsounds\ohsnap2.wav", "miscsounds\hitsounds\ohsnap3.wav", "miscsounds\hitsounds\ohsnap4.wav", "miscsounds\hitsounds\ohsnap5.wav", "miscsounds\hitsounds\ohsnap6.wav", "miscsounds\hitsounds\ohsnap7.wav", "miscsounds\hitsounds\ohsnap8.wav", "miscsounds\hitsounds\ohsnap9.wav" }
+	sound = { "sound\miscsounds\hitsounds\ohsnap1.wav", "sound\miscsounds\hitsounds\ohsnap2.wav", "sound\miscsounds\hitsounds\ohsnap3.wav", "sound\miscsounds\hitsounds\ohsnap4.wav", "sound\miscsounds\hitsounds\ohsnap5.wav", "sound\miscsounds\hitsounds\ohsnap6.wav", "sound\miscsounds\hitsounds\ohsnap7.wav", "sound\miscsounds\hitsounds\ohsnap8.wav", "sound\miscsounds\hitsounds\ohsnap9.wav" }
 } )
 
 sound.Add( {
