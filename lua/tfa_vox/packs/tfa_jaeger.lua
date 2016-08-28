@@ -507,7 +507,7 @@ sound.Add( {
 	volume = 1.0,
 	level = SNDLVL_TALKING,
 	pitch = PITCH_NORM,
-	sound = { "vo/dva/i_need_healing.wav" }
+	sound = { "" }
 } )
 
 sound.Add( {
